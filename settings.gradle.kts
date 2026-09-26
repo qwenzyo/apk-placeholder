@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Safetycore placeholder"
+rootProject.name = "android system key verifier placeholder"
 include(":app")
